@@ -1,0 +1,6 @@
+{
+  "name": "Falambons Code",
+  "description": "Falambons Code Studio: text and multi-language code editor with dark themes, RGB glow, local offline auth, folders, QR export, and custom background.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
